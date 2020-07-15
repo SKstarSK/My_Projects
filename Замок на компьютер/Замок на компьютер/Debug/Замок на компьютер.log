@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+c:\users\acer\source\repos\замок на компьютер\замок на компьютер\form1.h(149): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+  Form1.cpp
+  Создание кода...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Замок на компьютер.vcxproj -> C:\Users\acer\source\repos\Замок на компьютер\Debug\Замок на компьютер.exe

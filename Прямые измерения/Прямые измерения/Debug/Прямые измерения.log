@@ -1,0 +1,33 @@
+﻿D:\VS\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2110,5): warning MSB3267: основную ссылку "mscorlib", которая является сборкой платформы, не удалось разрешить в текущей целевой платформе. ".NETFramework,Version=v4.0". Чтобы устранить эту проблему, удалите ссылку "mscorlib", или измените целевую платформу приложения на версию, которая содержит "mscorlib".
+  MyForm.cpp
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(607): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(608): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(609): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(610): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(611): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(612): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(613): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(615): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(616): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(617): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(618): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(619): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(620): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(621): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(622): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(623): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(624): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(625): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(626): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(627): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(628): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(629): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(630): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(631): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(632): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(633): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(634): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(701): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(702): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.h(707): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\acer\source\repos\прямые измерения\прямые измерения\myform.cpp(2): fatal error C1083: Не удается открыть файл включение: mscorlib.dll: No such file or directory,

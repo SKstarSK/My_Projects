@@ -1,0 +1,5 @@
+﻿  CppCLR_WinformsProjekt.cpp
+c:\users\acer\source\repos\планировщик задач\планировщик задач\cppclr_winformsprojekt.cpp(11): warning C4005: __CLR_VER: изменение макроопределения
+  c:\users\acer\source\repos\планировщик задач\планировщик задач\cppclr_winformsprojekt.cpp(11): note: аргументы командной строки:  см. предыдущее определение "__CLR_VER"
+c:\users\acer\source\repos\планировщик задач\планировщик задач\cppclr_winformsprojekt.cpp(11): warning C4651: параметр "/D__CLR_VER=40703190" указан для предкомпилированного заголовка, но не для текущей компиляции
+  Планировщик задач.vcxproj -> C:\Users\acer\source\repos\Планировщик задач\Debug\Планировщик задач.exe
